@@ -1,4 +1,4 @@
-# NixProject By Sotiris Zannetos Readme Work In Progress
+# NixProjectReadme Work In Progress
 Nixe Clock Project Including Electronics, Software and 3d Designing for Enclosure
 
 By looking at the Nixie Datasheet we know that each tube requires 10 different Inputs to turn each digit on (Will not be using the commas). For this clock I will be using the classic IN-14 Tube.
